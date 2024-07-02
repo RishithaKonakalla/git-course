@@ -1,5 +1,4 @@
 add and remove users
-change the roles
 manage the database
 
 closing the mysql database connection
